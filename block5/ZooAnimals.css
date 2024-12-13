@@ -1,0 +1,15 @@
+body {
+    background-color: orange;
+}
+h1 {
+    text-align: center;
+    color: darkgreen;
+    font-size: xx-large;
+}
+h2 {
+    color: darkgreen;
+    text-decoration: underline;
+}
+li {
+    font-weight: bold;
+}
