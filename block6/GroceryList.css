@@ -1,9 +1,11 @@
+/*MAIN HEADER*/
 h1 {
     color: green;
     text-decoration: underline;
     text-align: center;
     font-size: xx-large;
 }
+/*HEADER IN SECTIONS*/
 h2 {
     background-color: rgb(202, 243, 202);
     color: darkblue;
@@ -11,16 +13,19 @@ h2 {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+/*HEADER FOR LISTS*/
 h3 {
     color:darkblue;
     font-size: larger;
 }
 
+/*BODY DECORATION*/
 body {
     background-color: rgb(255, 247, 233);
     font-weight: bold;
 }
 
+/*SECTIONS DECORATION*/
 section {
     background-color: rgb(243, 196, 179);
     margin-top: 150px;
@@ -29,22 +34,25 @@ section {
     margin bottom: 150px; 
     border:3px; 
 }
+/*CONTAINER*/
 div {
     background-color: rgb(197, 189, 189);
     margin-bottom: 20px;
     margin-right: 150px;
     padding: 5px;
 }
-
+/*IMAGES*/
 img {
     padding: 10px;
     width: 200px;
     height: 200px;
 }
+/*UNORDERED LISTS (PANTRY ITEMS)*/
 ul {
     margin-top: 50px;
     margin-bottom:50px;
 }
+/*ORDERED LISTS (FREEZER ITEMS)*/
 ol {
     margin-top: 50px;
     margin-bottom:50px;
