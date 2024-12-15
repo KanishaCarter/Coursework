@@ -1,0 +1,51 @@
+h1 {
+    color: green;
+    text-decoration: underline;
+    text-align: center;
+    font-size: xx-large;
+}
+h2 {
+    background-color: rgb(202, 243, 202);
+    color: darkblue;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h3 {
+    color:darkblue;
+    font-size: larger;
+}
+
+body {
+    background-color: rgb(255, 247, 233);
+    font-weight: bold;
+}
+
+section {
+    background-color: rgb(243, 196, 179);
+    margin-top: 150px;
+    margin-left: 75px;
+    margin-right: 1000px;
+    margin bottom: 150px; 
+    border:3px; 
+}
+div {
+    background-color: rgb(197, 189, 189);
+    margin-bottom: 20px;
+    margin-right: 150px;
+    padding: 5px;
+}
+
+img {
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+ul {
+    margin-top: 50px;
+    margin-bottom:50px;
+}
+ol {
+    margin-top: 50px;
+    margin-bottom:50px;
+}
