@@ -1,15 +1,32 @@
 body {
-    background-color: rgb(83, 186, 226)
+    background-color: rgb(242, 242, 247);
+}
+h1 {
+    font-size: 40px;
+    font-family: cursive;
+    color: whitesmoke;
+    margin-left: 50px;
+}
+#links {
+    margin-left: 1500px;
 }
 a {
-    text-align: right;
+    color:whitesmoke;
 }
 img {
+    margin-left: 900px;
+    margin-top:50px;
     margin-bottom: 20px;
+    padding: 20px;
+    border: 5px solid rgb(79, 79, 243);
+    background-color: rgb(233, 78, 143);
 }
-q {
-    font-family: cursive;
-    font-size: xx-large;
-    margin-top: 20px;
-    margin-left: 200px;
+nav{
+    padding: 2px;
+    background-color: rgb(233, 78, 143);
+    border: 7px solid rgb(79,79,243);
+    margin-bottom: 10px;
+}
+#interests {
+    font-size: 40px;
 }
